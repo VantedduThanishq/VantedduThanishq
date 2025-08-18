@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @VantedduThanishq
-- 👀 I’m interested in Coding
-- 🌱 I’m currently programing
-- 💞️ I’m looking to collaborate on ...
-
-<!---
-VantedduThanishq/VantedduThanishq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Tech enthusiastic with skills in C++, Python, Java, and SQL.  
+Hands-on experience in IoT and cloud-based applications, with additional exposure to embedded systems.  
+Qualified GATE 2025 (Electronics \& Communication), demonstrating strong analytical and problem-solving skills.  
