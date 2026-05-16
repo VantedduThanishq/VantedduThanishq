@@ -13,37 +13,26 @@ ECE graduate and GATE 2025 qualified student with strong foundations in Digital 
 **🧠 Technical Skills**
 
   **Hardware Design & Verification:** 
-  
+
 * Verilog
-
 * SystemVerilog
-
 * UVM
-
 * Assertions
-
 * Functional Coverage
-
 * Testbench Development
-
 * Waveform Debugging
 
 **Programming:**
 
 * Python
-
 * C/C++
 
 **Tools & Platforms :**
 
 * QuestaSim
-
 * ModelSim
-
 * Xilinx Vivado
-
 * Git & GitHub
-
 * Linux
 
 **📂 Featured Projects**
@@ -51,33 +40,25 @@ ECE graduate and GATE 2025 qualified student with strong foundations in Digital 
 **🔹 FIFO Design & Verification**
 
 * Designed a parameterized synchronous FIFO in Verilog.
-
 * Verified full, empty, overflow, and underflow conditions.
-
 * Developed a self-checking SystemVerilog testbench.
-
 * Used assertions and waveform debugging for verification.
 
 **🔹 Single Port RAM Verification**
 
 * Designed and verified a single-port RAM with read/write control logic.
-
 * Built a self-checking testbench with scoreboard-based data validation.
-
 * Performed directed testing and debugged mismatches using simulation waveforms.
 
 **🔹 UVM-Based Verification Environment**
 
 * Developed reusable UVM components including driver, monitor, sequencer, and scoreboard.
-
 * Implemented constrained random testing and functional coverage.
-
 * Automated transaction-level verification flow.
 
 **🏆 Achievements**
 
 ✅ GATE 2025 Qualified
-
 🥇 Winner – Electrothon IoT Hackathon
 
 **📫 Connect With Me**
